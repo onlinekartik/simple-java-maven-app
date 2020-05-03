@@ -15,7 +15,7 @@ public class App
     }
 
     private final String getMessage() {
-        return m1essage;
+        return message;
     }
 
 }
